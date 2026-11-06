@@ -1,0 +1,18 @@
+/* Name: Utkarsh Yadav | Student ID: BCS2025381 | Assignment: BCS352 Lab 10 */
+
+h1 {
+    color: navy;
+}
+
+.note {
+    font-style: italic;
+}
+
+#title {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    color: grey;
+}
